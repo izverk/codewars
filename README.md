@@ -1,2 +1,2 @@
 # codewars
-Выполненные ката на https://www.codewars.com/
+Здесь хранятся выполненные мной ката с ресурса https://www.codewars.com/
